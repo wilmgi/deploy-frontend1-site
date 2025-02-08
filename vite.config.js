@@ -5,7 +5,7 @@ import {resolve} from 'path'
 
 
 export default defineConfig({
-  //base: "/tsdemo2/"
+  base: "/deploy-frontend1-site/",
 
  
   build: {
